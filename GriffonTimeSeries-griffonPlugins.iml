@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME$/.griffon/0.9.4/projects/GriffonTimeSeries/plugins/charts-0.3">
+      <sourceFolder url="file://$USER_HOME$/.griffon/0.9.4/projects/GriffonTimeSeries/plugins/charts-0.3/dist" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/.griffon/0.9.4/projects/GriffonTimeSeries/plugins/charts-0.3/target/classes" />
+      <excludeFolder url="file://$USER_HOME$/.griffon/0.9.4/projects/GriffonTimeSeries/plugins/charts-0.3/target/test-classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="Griffon 0.9.4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="griffon-0.9.4" level="application" />
+    <orderEntry type="module-library" exported="">
+      <library name="Griffon:lib (GriffonTimeSeries-griffonPlugins)">
+        <CLASSES>
+          <root url="file://$USER_HOME$/.griffon/0.9.4/projects/GriffonTimeSeries/plugins/charts-0.3/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/staging/groovychart-0.1BETA.jar!/" />
+          <root url="jar://$MODULE_DIR$/staging/griffon-charts-addon-0.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/staging/jfreechart-1.0.13.jar!/" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/.griffon/0.9.4/projects/GriffonTimeSeries/plugins/charts-0.3/lib" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
